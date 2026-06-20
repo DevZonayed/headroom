@@ -252,3 +252,6 @@ uv.lock
 # package shadows the maturin overlay on sys.path.
 /headroom/_core.*.so
 /headroom/_core.so
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
